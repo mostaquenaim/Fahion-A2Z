@@ -75,7 +75,7 @@ const ProductDetails = () => {
                 <h1 className="text-2xl font-semibold text-primary">{name}</h1>
                 <p className="text-sm text-primary opacity-60">Brand: {brandName.name}</p>
                 <p className="text-sm text-primary opacity-60">Type: {type}</p>
-                <p className="text-lg text-primary font-semibold">Price: ${price}</p>
+                <p className="text-lg text-primary font-semibold">Price: ৳{price}</p>
                 <p className="text-sm text-primary opacity-60">Description: {description}</p>
                 <p className="text-sm text-primary opacity-60">Rating: {rating}</p>
                 <button
