@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Adidas",
+        "image": "https://i.ibb.co/wRnX2Jt/adidas-logo.png",
+        "banners":[
+            "https://i.ibb.co/5cjR7m9/adidas-banner-1.jpg",
+            "https://i.ibb.co/WpdZBzS/adidas-banner-2.jpg",
+            "https://i.ibb.co/vxCDZVJ/adidas-banner-3.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Nike",
+        "image": "https://i.ibb.co/cbNmJK3/nike-logo.png",
+        "banners":[
+            "https://i.ibb.co/q7Vx4LR/nike-banner-1.jpg",
+            "https://i.ibb.co/PZMXw8c/nike-banner-2.jpg",
+            "https://i.ibb.co/SVKtJc0/nike-banner-3.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Gucci",
+        "image": "https://i.ibb.co/12yK3yH/gucci-logo.png",
+        "banners":[
+            "https://i.ibb.co/5cjR7m9/adidas-banner-1.jpg",
+            "https://i.ibb.co/WpdZBzS/adidas-banner-2.jpg",
+            "https://i.ibb.co/vxCDZVJ/adidas-banner-3.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Zara",
+        "image": "https://i.ibb.co/kD8g7ny/zara-logo.png",
+        "banners":[
+            "https://i.ibb.co/K05vDT3/zara-banner-1.jpg",
+            "https://i.ibb.co/NK48bnp/zara-banner-2.jpg",
+            "https://i.ibb.co/thyLF25/zara-banner-3.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Levi's",
+        "image": "https://i.ibb.co/BTtkBNZ/levi-s-logo.png",
+        "banners":[
+            "https://i.ibb.co/H4SyGPy/levi-s-banner-1.jpg",
+            "https://i.ibb.co/7K8Dd15/levi-s-banner-2.jpg",
+            "https://i.ibb.co/JdL5JHd/levi-s-banner-3.png"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "H&M",
+        "image": "https://i.ibb.co/CH5R5LZ/h-m-logo.png",
+        "banners":[
+            "https://i.ibb.co/hZKWJg8/h-m-banner-1.jpg",
+            "https://i.ibb.co/2NCkbm4/h-m-banner-2.webp",
+            "https://i.ibb.co/mChjfL5/h-m-banner-3.png"
+        ]
+    }
+]

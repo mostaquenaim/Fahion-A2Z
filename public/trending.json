@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Dunk Low Retro",
+        "image": "https://i.ibb.co/98gJBLm/nike-shoes-2.webp",
+        "description": "Upgrade your sneaker game with the iconic Nike Dunk Low Retro. These sneakers feature a classic design that never goes out of style.",
+        "price": 12000
+    },
+    {
+        "id": 2,
+        "name": "Gucci Luxury Rebound",
+        "image": "https://i.ibb.co/sgqNQYp/gucci-product-1.jpg",
+        "description": "Indulge in luxury with the Gucci Luxury Rebound shoes. Crafted with premium materials and exquisite craftsmanship, these shoes exude sophistication and style.",
+        "price": 41000
+    },
+    {
+        "id": 3,
+        "name": "Adidas Mens Yking Running Shoe",
+        "image": "https://i.ibb.co/XDjZVn3/adidas-shoe-1.jpg",
+        "description": "Step up your running game with Adidas Mens Yking Running Shoe. These shoes offer superior comfort and support for your daily runs.",
+        "price": 19500
+    },
+    {
+        "id": 4,
+        "name": "Levi's Stylish Jeans",
+        "image": "https://i.ibb.co/BfT5HCk/levi-s2020.jpg",
+        "description": "Achieve a timeless and trendy look with Levi's Stylish Jeans. These jeans are a wardrobe essential for a classic and fashionable appearance.",
+        "price": 3900
+    }
+]
